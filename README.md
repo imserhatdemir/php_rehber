@@ -1,2 +1,2 @@
 # php_rehber
- Php ile rehber
+Php kullanarak basit bir rehber sitesi yaptım
